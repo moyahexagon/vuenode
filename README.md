@@ -1,4 +1,4 @@
-# ![vuenode](media/screenshot-web.png)
+# ![vuenode](https://user-images.githubusercontent.com/46509915/89748779-2ae65b00-daef-11ea-9e92-f9372a324d80.jpeg)
 
 Eksplorasi web development dengan tech-stack NodeJs + VueJs pada iPad dengan menggunakan aplikasi PlayJs
 
