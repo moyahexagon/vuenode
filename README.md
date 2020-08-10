@@ -18,7 +18,7 @@ Aplikasi PlayJs sudah menyediakan template NodeJs dan VueJs pada IDE nya. Langka
 Catatan:
 Aplikasi berjalan dalam mode sandbox di iPadOS [system sandboxing](https://developer.apple.com/documentation/security/app_sandbox).
 
-##### Info dan Konsultasi
+#### Info dan Konsultasi
 Selain ngoprek workflow web development di iPad, kami juga merupakan sebuah software house yang berpengalaman dalam membuat aplikasi berbasis web dan mobile app dengan native platform. Silahkan hubungi: 
 
 `crew@moyahexagon.com` 🦄
